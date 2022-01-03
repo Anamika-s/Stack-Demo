@@ -1,0 +1,16 @@
+E:\StackDemo\obj\Debug\net5.0\StackDemo.csproj.AssemblyReference.cache
+E:\StackDemo\obj\Debug\net5.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\StackDemo\obj\Debug\net5.0\StackDemo.AssemblyInfoInputs.cache
+E:\StackDemo\obj\Debug\net5.0\StackDemo.AssemblyInfo.cs
+E:\StackDemo\obj\Debug\net5.0\StackDemo.csproj.CoreCompileInputs.cache
+E:\StackDemo\bin\Debug\net5.0\StackDemo.exe
+E:\StackDemo\bin\Debug\net5.0\StackDemo.deps.json
+E:\StackDemo\bin\Debug\net5.0\StackDemo.runtimeconfig.json
+E:\StackDemo\bin\Debug\net5.0\StackDemo.runtimeconfig.dev.json
+E:\StackDemo\bin\Debug\net5.0\StackDemo.dll
+E:\StackDemo\bin\Debug\net5.0\ref\StackDemo.dll
+E:\StackDemo\bin\Debug\net5.0\StackDemo.pdb
+E:\StackDemo\obj\Debug\net5.0\StackDemo.dll
+E:\StackDemo\obj\Debug\net5.0\ref\StackDemo.dll
+E:\StackDemo\obj\Debug\net5.0\StackDemo.pdb
+E:\StackDemo\obj\Debug\net5.0\StackDemo.genruntimeconfig.cache
